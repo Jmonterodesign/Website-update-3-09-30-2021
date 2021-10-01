@@ -1,0 +1,38 @@
+.highlight-blue {
+  color: #fff;
+  background-color: #1e6add;
+  padding: 50px 0;
+}
+
+.highlight-blue p {
+  color: #c4d5ef;
+  line-height: 1.5;
+}
+
+.highlight-blue .buttons {
+  text-align: center;
+}
+
+.highlight-blue .buttons .btn {
+  padding: 16px 32px;
+  margin: 6px;
+  border: none;
+  background: none;
+  box-shadow: none;
+  text-shadow: none;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 0.4px;
+  line-height: 1;
+}
+
+.highlight-blue .buttons .btn:hover {
+  opacity: 1;
+}
+
+.highlight-blue .buttons .btn:active {
+  transform: translateY(1px);
+}
+
